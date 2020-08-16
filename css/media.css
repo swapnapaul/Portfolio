@@ -1,0 +1,27 @@
+@media screen and (max-width: 480px) {
+    .header_logo {
+        width: 36%;
+    }
+    .header_menu {
+        width: 80%;
+        margin-left: 0;
+    }
+    .section_title {
+        font-size: 30px;
+    }
+    .header_menu li {
+        margin: 0px 10px;
+    }
+  
+    .identity_content {
+        margin: 0px 15px;
+        font-size: 16px;
+    }
+    .identity_image img {
+        height: 185px;
+        margin-top: 18px;
+    }
+    .cards img {
+        height: 100px;
+    }
+}
